@@ -8,6 +8,11 @@ var app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+app.use(function(req,res,next){
+  console.log("req.url",req.url);
+  next();
+});
+
 const result = [];
 const result2 = [];
 
