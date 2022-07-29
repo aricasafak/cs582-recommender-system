@@ -1,0 +1,103 @@
+{
+  "columns":[
+    "anime_id",
+    "name",
+    "genre",
+    "type",
+    "episodes",
+    "rating",
+    "members"
+  ],
+  "data":[
+    [
+      5114,
+      "Fullmetal Alchemist: Brotherhood",
+      "Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",
+      "TV",
+      "64",
+      9.11,
+      793665
+    ],
+    [
+      9253,
+      "Steins;Gate",
+      "Sci-Fi, Thriller",
+      "TV",
+      "24",
+      9.0,
+      673572
+    ],
+    [
+      11061,
+      "Hunter x Hunter (2011)",
+      "Action, Adventure, Shounen, Super Power",
+      "TV",
+      "148",
+      8.88,
+      425855
+    ],
+    [
+      4181,
+      "Clannad: After Story",
+      "Drama, Fantasy, Romance, Slice of Life, Supernatural",
+      "TV",
+      "24",
+      8.83,
+      456749
+    ],
+    [
+      2904,
+      "Code Geass: Hangyaku no Lelouch R2",
+      "Action, Drama, Mecha, Military, Sci-Fi, Super Power",
+      "TV",
+      "25",
+      8.8,
+      572888
+    ],
+    [
+      918,
+      "Gintama",
+      "Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",
+      "TV",
+      "201",
+      8.74,
+      336376
+    ],
+    [
+      1575,
+      "Code Geass: Hangyaku no Lelouch",
+      "Action, Mecha, Military, School, Sci-Fi, Super Power",
+      "TV",
+      "25",
+      8.69,
+      715151
+    ],
+    [
+      23273,
+      "Shigatsu wa Kimi no Uso",
+      "Drama, Music, Romance, School, Shounen",
+      "TV",
+      "22",
+      8.68,
+      416397
+    ],
+    [
+      30276,
+      "One Punch Man",
+      "Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",
+      "TV",
+      "12",
+      8.64,
+      552458
+    ],
+    [
+      1,
+      "Cowboy Bebop",
+      "Action, Adventure, Comedy, Drama, Sci-Fi, Space",
+      "TV",
+      "26",
+      8.62,
+      486824
+    ]
+  ]
+}
